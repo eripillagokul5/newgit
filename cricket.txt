@@ -1,7 +1,4 @@
 kohli
 rohit
 dhoni
-sachin
-
-bumrah
-bhuvi
+sachin 
